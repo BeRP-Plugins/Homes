@@ -1,4 +1,5 @@
-# ExamplePlugin
-This plugin is the basic layout for a BeRP Plugin.
+# Homesplugin
 
-For plugin documentation, visit [here](https://github.com/NobUwU/BeRP/blob/main/docs/plugin.md).
+commands
+.sethome - Saves player coordinates in database
+.home - Teleports player to their home
